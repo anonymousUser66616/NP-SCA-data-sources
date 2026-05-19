@@ -1,4 +1,4 @@
-# Data Sources for "Neyman-Pearson Classifier with Successive Convex Approximation for Imbalanced Data"
+# Data Sources for NP 
 
 This repository lists the public sources of the real datasets analyzed in the manuscript.
 
